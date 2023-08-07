@@ -1,0 +1,15 @@
+E:\прога\Homeworks\task2\bin\Debug\net6.0\task2.exe
+E:\прога\Homeworks\task2\bin\Debug\net6.0\task2.deps.json
+E:\прога\Homeworks\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+E:\прога\Homeworks\task2\bin\Debug\net6.0\task2.dll
+E:\прога\Homeworks\task2\bin\Debug\net6.0\task2.pdb
+E:\прога\Homeworks\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+E:\прога\Homeworks\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\прога\Homeworks\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+E:\прога\Homeworks\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+E:\прога\Homeworks\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+E:\прога\Homeworks\task2\obj\Debug\net6.0\task2.dll
+E:\прога\Homeworks\task2\obj\Debug\net6.0\refint\task2.dll
+E:\прога\Homeworks\task2\obj\Debug\net6.0\task2.pdb
+E:\прога\Homeworks\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+E:\прога\Homeworks\task2\obj\Debug\net6.0\ref\task2.dll
