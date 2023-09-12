@@ -1,4 +1,5 @@
-﻿string converter;
+﻿//testing on new os
+string converter;
 int a;
 int b;
 Console.WriteLine("Введите a");
